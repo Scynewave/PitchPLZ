@@ -8,7 +8,7 @@ PitchPLZ (Pitch Please!) is a twitch community game designed by Biocow & Scynewa
 
 - One player is selected each round as the Salesperson." This player _can not_ see or explicitly hear what the item is.
 - The remaining players and/or the host/guest/show producer/etc. all act as "callers" calling into a fictional shopping network. They, as well as the viewers of the show, can see what the item is but must not explicitly tell the current salesperson.
-- In each round, an item is selected from a curated list of weird and unexpected amazon items and the Callers pretend to call in and ask _very_ vague questions about the current showcase.
+- In each round, an item is selected from a curated list of weird and unexpected amazon items and the Callers pretend to call in and ask _very_ vague questions about the current showcase. The salesperson must then infer what they can about the showcase to pitch it to the viewers with as much confidence and expert authority they can, looking like a fool in the process.
 - The viewers visit a voting website to either "Buy" or "Pass" on the item, the results are shown in real-time to the stream and players.
 - At the end of the round if there are more "Buys" than "Passes" the salesperson gets a point.
 - The player with the most points at the end of the game wins.
